@@ -10,17 +10,16 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 # Trame
 Tour de table
 
-IntelliJ
-
-Maven Starter
+Outils
+- IntelliJ
+- Maven
+- Spring Starter
 
 Démarrer une application Spring Boot
 
-DTO / Entité
-
-REST: URL vs URI
-
-Bean / Stereotype
+Spring
+- Bean
+- Stereotype
 
 REST
 
