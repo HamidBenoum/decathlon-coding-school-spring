@@ -31,9 +31,9 @@ Fédération d'identité Oauth2
 
 Testing
 
-(Optionel) Spring Data JPA
-
 (Optionel) Actuator
+
+(Optionel) Spring Data JPA
 
 (Pas abordés) Spring MVC
 
