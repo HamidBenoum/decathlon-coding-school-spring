@@ -33,7 +33,8 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - Les 2 premières parties uniquement
 
 ## Officiel: Spring intro
-- Tout Spring Boot Intro 
+- Toutes les slides
+- Lab
 
 # Jour 2
 
