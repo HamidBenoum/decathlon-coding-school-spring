@@ -1,4 +1,3 @@
-<<<<<<< HEAD:00 - index.md
 Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 
 # Objectif de la formation
@@ -8,78 +7,55 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - REST avec Spring
 - Sécurité et utilisation de la federation d'identité (OAuth 2)
 
-# Trame
-Tour de table
-
-Outils
-- IntelliJ
-- Maven
-- Spring Starter
-
-Démarrer une application Spring Boot
-
-Spring
-- Bean
-- Stereotype
-
-REST
-
-Spring security
-
-Fédération d'identité Oauth2
-
-Testing
-
-(Optionel) Spring Data JPA
-
-(Optionel) Actuator
-
-(Pas abordés) Spring MVC
-
 # Quizz
 - Collectif: Chaque matin
 - Individuel: CodingGame
-=======
-Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 
-# Objectif de la formation
-Être autonome avec Spring:
-- Démarrer une application Spring
-- Tester une application Spring
-- REST avec Spring
-- Sécurité et utilisation de la federation d'identité (OAuth 2)
+# Jour 1
 
-# Trame
-Tour de table
+## Tour de table
+- Présentation
+- Attentes
 
-Outils
-- IntelliJ
-- Maven
-- Spring Starter
+## Introduction
+- Qu'est ce que Spring ?
+- Qu'est ce qu'un framework ?
+- Qu'est ce que Spring Boot ?
 
-Démarrer une application Spring Boot
+## Outils
+- IntelliJ: Installation
+- Maven: Démarrer une application Spring Boot dans IntelliJ
 
-Premières slides intro spring
+## Officiel: Course Agenda
+- Toutes les slides
+
+## Officiel: Spring Essentials Review
+- Les 2 premières parties uniquement
+
+## Officiel: Spring intro
+- Tout Spring Boot Intro 
+
+# Jour 2
+
+## Testing
+
+## REST
+- Formation interne DKT
+- Définir ce qu'est une API
+
+## Spring security
+
+## Fédération d'identité Oauth2
+
+
 
 Spring
 - Bean
 - Stereotype
 
-REST
-
-Spring security
-
-Fédération d'identité Oauth2
-
-Testing
 
 (Optionel) Actuator
 
 (Optionel) Spring Data JPA
 
 (Pas abordés) Spring MVC
-
-# Quizz
-- Collectif: Chaque matin
-- Individuel: CodingGame
->>>>>>> 104fb78ed33371c25b64941167c996f80c91a5dc:lessons/00 - index.md

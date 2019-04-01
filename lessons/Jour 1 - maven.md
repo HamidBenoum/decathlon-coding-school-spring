@@ -1,7 +1,6 @@
-# Maven anatomie
+# Maven
 
-https://start.spring.io/
-
+## Anatomie d'un projet
 - src
     - main
         - java
@@ -15,6 +14,9 @@ https://start.spring.io/
 
 # Utilisation
 mvn = maven
+
+https://start.spring.io/
+
 
 maven embarqué dans IntelliJ
 
