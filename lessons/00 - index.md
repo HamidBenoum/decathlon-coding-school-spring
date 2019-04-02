@@ -2,9 +2,9 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 
 # Objectif de la formation
 Être autonome avec Spring:
-- Démarrer une application Spring
+- Démarrer une application Spring Boot
+- REST avec Spring Boot
 - Tester une application Spring
-- REST avec Spring
 - Sécurité et utilisation de la federation d'identité (OAuth 2)
 
 # Quizz
