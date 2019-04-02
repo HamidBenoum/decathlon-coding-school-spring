@@ -7,36 +7,56 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - REST avec Spring
 - Sécurité et utilisation de la federation d'identité (OAuth 2)
 
-# Trame
-Tour de table
+# Quizz
+- Collectif: Chaque matin
+- Individuel: CodingGame
 
-Outils
-- IntelliJ
-- Maven
-- Spring Starter
+# Jour 1
 
-Démarrer une application Spring Boot
+## Tour de table
+- Présentation
+- Attentes
 
-Premières slides intro spring
+## Introduction
+- Qu'est ce que Spring ?
+- Qu'est ce qu'un framework ?
+- Qu'est ce que Spring Boot ?
+
+## Outils
+- IntelliJ: Installation
+- Maven: Démarrer une application Spring Boot dans IntelliJ
+
+## Officiel: Course Agenda
+- Toutes les slides
+
+## Officiel: Spring Essentials Review
+- Les 2 premières parties uniquement
+
+## Officiel: Spring intro
+- Toutes les slides
+- Lab
+
+# Jour 2
+
+## Testing
+
+## REST
+- Formation interne DKT
+- Définir ce qu'est une API
+
+## Spring security
+
+## Fédération d'identité Oauth2
+
+
 
 Spring
 - Bean
 - Stereotype
 
-REST
-
-Spring security
-
-Fédération d'identité Oauth2
-
-Testing
 
 (Optionel) Actuator
 
 (Optionel) Spring Data JPA
 
 (Pas abordés) Spring MVC
-
-# Quizz
-- Collectif: Chaque matin
-- Individuel: CodingGame
