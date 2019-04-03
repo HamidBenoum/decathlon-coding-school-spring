@@ -1,4 +1,5 @@
 Formation Spring Boot basée sur la formation officielle fournie par Pivotal
+12 séries de slides officielles
 
 # Objectif de la formation
 Être autonome avec Spring:
@@ -16,7 +17,6 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 ## Tour de table
 - Présentation
 - Attentes
-- 12 séries de slides officielles
 
 ## Introduction
 - Qu'est ce que Spring ?
