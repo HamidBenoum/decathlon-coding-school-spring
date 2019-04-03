@@ -33,8 +33,8 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 ## Officiel 2: Spring Essentials Review
 - Les 2 premières parties uniquement
 - Notions:
- - Bean
- - Stereotype
+  - Bean
+  - Stereotype
 
 ## Officiel 3: Spring intro
 - Toutes les slides
