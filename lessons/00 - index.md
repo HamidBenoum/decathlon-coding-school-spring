@@ -1,5 +1,7 @@
 Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 
+12 séries de slides officielles
+
 # Objectif de la formation
 Être autonome avec Spring:
 - Démarrer une application Spring Boot
@@ -26,37 +28,55 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - IntelliJ: Installation
 - Maven: Démarrer une application Spring Boot dans IntelliJ
 
-## Officiel: Course Agenda
+## Officiel 1: Course Agenda
 - Toutes les slides
 
-## Officiel: Spring Essentials Review
+## Officiel 2: Spring Essentials Review
 - Les 2 premières parties uniquement
+- Notions:
+  - Bean
+  - Stereotype
 
-## Officiel: Spring intro
+## Officiel 3: Spring intro
 - Toutes les slides
 - Lab
 
 # Jour 2
 
-## Testing
+## Quizz
 
-## REST
+## Officiel 4: Starters, Auto-configuration and Runtime
+
+## (Adapté) Officiel 5: Spring Data JPA
+- Faire un Lab Custom (Annotation, Sysout, Logger, JDBC)
+- Test Unitaire
+- Tests intégration
+ 
+## Officiel 6: Spring MVC Introduction
+- Qu'est ce qu'une API ?
+- Spring rest: montrer postman /swagger ui
 - Formation interne DKT
-- Définir ce qu'est une API
+- Spring mvc tout sauf le dispatcher servlet
 
-## Spring security
+# Jour 3
+
+## Quizz
+
+## Officiel 7: RESTful Applications with Spring Boot
+
+## Officiel 8: Securing REST Applications with Spring Security
+
+## Officiel 9: Security with OAuth2
 
 ## Fédération d'identité Oauth2
 
+## Officiel 12: Completed - What's Next
+
+# Jour 4
+
+## Quizz
 
 
-Spring
-- Bean
-- Stereotype
+## (Optionel) Officiel 10: Actuators, Metrics and Health Indicators
 
-
-(Optionel) Actuator
-
-(Optionel) Spring Data JPA
-
-(Pas abordés) Spring MVC
+## (Optionel) Officiel 11: Spring Boot Testing
