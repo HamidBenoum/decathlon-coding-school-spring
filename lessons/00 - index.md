@@ -34,7 +34,6 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 ## Officiel 2: Spring Essentials Review
 - Les 2 premières parties uniquement
 - Notions:
-  - Bean
   - Stereotype
 
 ## Officiel 3: Spring intro
@@ -51,6 +50,7 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - Faire un Lab Custom (Annotation, Sysout, Logger, JDBC)
 - Test Unitaire
 - Tests intégration
+- Spring Data: Expliquer le getUserById
  
 ## Officiel 6: Spring MVC Introduction
 - Qu'est ce qu'une API ?
