@@ -35,6 +35,8 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - Les 2 premières parties uniquement
 - Notions:
   - Stereotype
+  
+## Test Unitaire et Test d'intégration
 
 ## Officiel 3: Spring intro
 - Toutes les slides
