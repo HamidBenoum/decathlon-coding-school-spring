@@ -6,5 +6,6 @@ Vue Project
 
 Vue Maven
  - Ajouter un projet maven
+ - File -> Open
 
 Vue TODO: Group by Modules

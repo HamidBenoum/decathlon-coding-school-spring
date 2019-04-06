@@ -27,6 +27,7 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 ## Outils
 - IntelliJ: Installation
 - Maven: Démarrer une application Spring Boot dans IntelliJ
+- Lab: 01 - demo
 
 ## Officiel 1: Course Agenda
 - Toutes les slides
@@ -37,6 +38,7 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
   - Stereotype
   
 ## Test Unitaire et Test d'intégration
+- Lab: 02 - spring test
 
 ## Officiel 3: Spring intro
 - Toutes les slides
@@ -49,10 +51,7 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 ## Officiel 4: Starters, Auto-configuration and Runtime
 
 ## (Adapté) Officiel 5: Spring Data JPA
-- Faire un Lab Custom (Annotation, Sysout, Logger, JDBC)
-- Test Unitaire
-- Tests intégration
-- Spring Data: Expliquer le getUserById
+- Revue du lab ensemble
  
 ## Officiel 6: Spring MVC Introduction
 - Qu'est ce qu'une API ?
