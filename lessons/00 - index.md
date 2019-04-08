@@ -58,9 +58,9 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - Revue du lab ensemble
  
 ## Officiel 6: Spring MVC Introduction
-- Qu'est ce qu'une API ?
+- Qu'est ce qu'une API ? https://dog.ceo/dog-api/
 - Spring rest: montrer postman /swagger ui
-- Formation interne DKT
+- Formation interne DKT: gdrive: "Design API - Complet"
 - Spring mvc tout sauf le dispatcher servlet
 
 # Jour 3
