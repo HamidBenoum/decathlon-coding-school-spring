@@ -44,11 +44,15 @@ Formation Spring Boot basée sur la formation officielle fournie par Pivotal
 - Toutes les slides
 - Lab
 
+## Officiel 4: Starters, Auto-configuration and Runtime
+
 # Jour 2
 
 ## Quizz
 
-## Officiel 4: Starters, Auto-configuration and Runtime
+## 03 - Custom labs sur les fichiers de propriétés
+
+## Revue du Lab: Starters, Auto-configuration and Runtime
 
 ## (Adapté) Officiel 5: Spring Data JPA
 - Revue du lab ensemble
