@@ -11,7 +11,8 @@ public class DemoApplication {
 	private static Logger logger = LoggerFactory.getLogger(DemoApplication.class);
 
 	public static void main(String[] args) {
-		System.out.println("step 1: start process");
+		// System.out.println("step 1: start process");
+		logger.info("step 1: start process");
 		SpringApplication.run(DemoApplication.class, args);
 		logger.info("step 2: End of process");
 	}

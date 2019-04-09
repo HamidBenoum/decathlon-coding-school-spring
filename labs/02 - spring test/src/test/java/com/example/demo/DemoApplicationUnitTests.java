@@ -10,9 +10,9 @@ public class DemoApplicationUnitTests {
 	@Test
 	public void should_return_5() {
 		TransferRepository transferRepository = new TransferRepository();
-		TransferService transferService = new TransferService(transferRepository);
-		int transferCount = transferService.getTransferCount();
-		Assertions.assertThat(transferCount).isEqualTo(5);
+		 TransferService transferService = new TransferService(transferRepository);
+		 int transferCount = transferService.getTransferCount();
+		 Assertions.assertThat(transferCount).isEqualTo(5);
 	}
 
 }

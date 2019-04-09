@@ -16,6 +16,7 @@ public class DemoApplicationIntegrationTests {
     @Autowired
     private TransferService transferService;
 
+
     @Test
     public void should_return_5() {
         int transferCount = transferService.getTransferCount();
@@ -25,7 +26,7 @@ public class DemoApplicationIntegrationTests {
     @Test
     public void should_transferRepository_not_be_null() {
         //TODO: Complete this function
-        TransferRepository transferRepository = null;
+        TransferRepository transferRepository = transferService.getTransferRepository();
         Assertions.assertThat(transferRepository).isNotNull();
     }
 
